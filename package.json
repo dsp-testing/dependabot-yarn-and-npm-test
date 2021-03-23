@@ -1,0 +1,22 @@
+{
+  "name": "dependabot-yarn-and-npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsp-testing/dependabot-yarn-and-npm-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsp-testing/dependabot-yarn-and-npm-test/issues"
+  },
+  "homepage": "https://github.com/dsp-testing/dependabot-yarn-and-npm-test#readme",
+  "dependencies": {
+    "marked": "^0.3.1"
+  }
+}
