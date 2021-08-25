@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dsp-testing/dependabot-yarn-and-npm-test#readme",
   "dependencies": {
-    "marked": "^0.3.1"
+    "marked": "^3.0.2"
   }
 }
