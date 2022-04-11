@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-marked@^0.3.1:
-  version "0.3.19"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.19.tgz#5d47f709c4c9fc3c216b6d46127280f40b39d790"
-  integrity sha512-ea2eGWOqNxPcXv8dyERdSr/6FmzvWwzjMxpfGB/sbMccXoct+xY+YukPD+QTUZwyvK7BZwcr4m21WBOW41pAkg==
+marked@^4.0.14:
+  version "4.0.14"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.14.tgz#7a3a5fa5c80580bac78c1ed2e3b84d7bd6fc3870"
+  integrity sha512-HL5sSPE/LP6U9qKgngIIPTthuxC0jrfxpYMZ3LdGDD3vTnLs59m2Z7r6+LNDR3ToqEQdkKd6YaaEfJhodJmijQ==
